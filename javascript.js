@@ -14,5 +14,5 @@ button3.onclick = function() {
 button4.onclick = function() {
     document.getElementById("box").style.height = "150px";
     document.getElementById("box").style.width = "150px";
-    document.getElementById("box").style.color = "orange";
+    document.getElementById("box").style.backgroundColor = "orange";
 }
