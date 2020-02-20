@@ -4,7 +4,7 @@ button1.onclick = function() {
 }
 
 button2.onclick = function() {
-    document.getElementById("box").style.color = "blue";
+    document.getElementById("box").style.backgroundColor = "blue";
 }
 
 button3.onclick = function() {
