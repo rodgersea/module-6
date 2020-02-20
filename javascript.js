@@ -4,15 +4,15 @@ button1.onclick = function() {
 }
 
 button2.onclick = function() {
-    document.getElementById("button2").style.color = "blue";
+    document.getElementById("box").style.color = "blue";
 }
 
 button3.onclick = function() {
-    document.getElementById("button3").style.opacity = 1;
+    document.getElementById("box").style.opacity = 1;
 }
 
 button4.onclick = function() {
-    document.getElementById("button4").style.height = "150px";
-    document.getElementById("button4").style.width = "150px";
-    document.getElementById("button2").style.color = "orange";
+    document.getElementById("box").style.height = "150px";
+    document.getElementById("box").style.width = "150px";
+    document.getElementById("box").style.color = "orange";
 }
