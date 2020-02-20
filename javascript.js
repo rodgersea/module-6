@@ -8,7 +8,7 @@ button2.onclick = function() {
 }
 
 button3.onclick = function() {
-    document.getElementById("box").style.opacity = "1";
+    document.getElementById("box").style.opacity = "0.5";
 }
 
 button4.onclick = function() {
